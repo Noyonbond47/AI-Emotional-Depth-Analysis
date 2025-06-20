@@ -4,7 +4,7 @@ This repository contains a research project analyzing the capabilities of a Larg
 
 The goal was to move beyond simple storytelling and use the AI as a tool to model intricate human emotions like guilt, trauma, and hypocritical jealousy, framed within a slow-burn narrative.
 
-**[➡️ Read the Full, In-Depth Case Study Here](case_study.md)**
+**[➡️ Read the Full, In-Depth Case Study Here](case%20study.md)**
 
 ---
 
